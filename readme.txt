@@ -1,4 +1,4 @@
-My first step in git
+﻿My first step in git
 git is good
 git is good
-支持中文
+git支持中文
